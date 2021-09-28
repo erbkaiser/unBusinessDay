@@ -1,0 +1,13 @@
+{
+	"Name": "Unbusiness Day",
+	"ID": "unbusiness",
+	"Author": "erbkaiser",
+	"Description": "Restores the default names on Business Day.",
+	"ModVersion": 1,
+	"GameVersion": 2.042,
+	"Date": "28/09/2021",
+	"Dependencies": [],
+	"LanguagePacks": ["lang.js"],
+	"Disabled": 1,
+	"AllowSteamAchievs": 1
+}
