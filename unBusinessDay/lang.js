@@ -46,5 +46,6 @@ ModLanguage('EN',{
 	"[Javascript console business name]Doctrine": "Javascript console",
 	"[Idleverse business quote]Sometimes the best way to keep going up is sideways. Diversify your ventures through non-cookie investments.": "There's been countless other idle universes running alongside our own. You've finally found a way to hijack their production and convert whatever they've been making into cookies!",
 	"[Idleverse business name]Lateral expansions": "Idleverse",
-	
+	"[Cortex baker business quote]These artificial brains the size of planets are capable of simply dreaming up cookies into existence. Time and space are inconsequential. Reality is arbitrary.": "These artificial brains the size of planets are capable of simply dreaming up cookies into existence. Time and space are inconsequential. Reality is arbitrary.",
+	"[Cortex baker business name]Think tank": "Cortex baker",
 });
