@@ -4,8 +4,8 @@
 	"Author": "erbkaiser",
 	"Description": "Restores the default names on Business Day.",
 	"ModVersion": 2,
-	"GameVersion": 2.046,
-	"Date": "15/05/2022",
+	"GameVersion": 2.047,
+	"Date": "2022/05/29",
 	"Dependencies": [],
 	"LanguagePacks": [
 	 "lang.js"
